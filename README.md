@@ -12,3 +12,7 @@ Proiect: „RRe-Green Global Network” (Tokenizarea Pădurilor și a Economiei 
 | Emite tokenul $TREE   |           | muncă locală          |       | finanțează extinderea |
 +-----------------------+           +-----------------------+       +-----------------------+
 3. Scalarea Bugetară și Proiecția pe Suprafețe (10ha, 50ha, 100ha, 1000ha)Modelul este proiectat modular, astfel încât să poată fi replicat indiferent de dimensiunea terenului disponibil. Iată cum arată dimensionarea tehnică și financiară:Parametru / Suprafață10 Hectare (Micro-Proiect Local)50 Hectare (Standard Comunal)100 Hectare (Regional)1,000 Hectare (Megaproiect Național/Global)Număr estimat de puieți~50.000 bucăți~250.000 bucăți~500.000 bucăți~5.000.000 bucățiCost Înființare (1 EUR/pom sau subvenție PNRR)~63.000 EUR~315.000 EUR~630.000 EUR~6.300.000 EURComponente Hibride IntegratePădure + Mini-Centru SocialPădure + Azil (20 locuri) + Pensiune EcoPădure + Complex Rezidențial Seniori + Eco-Tourism HubRețea națională de coridor verde + Hub-uri logistice autonomeEmisie Tokeni $TREE63.000 TREE315.000 TREE630.000 TREE6.300.000 TREEVenit Anual din Carbon (640€/ha/an)6.400 EUR / an32.000 EUR / an64.000 EUR / an640.000 EUR / an
+
+
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
